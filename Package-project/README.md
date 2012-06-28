@@ -18,14 +18,14 @@
 
 
 #### На выходе получаем 3 файла:
-![zip www](http://p.yusukekamiyamane.com/icons/search/fugue/icons/box.png) www
-![db.sql](http://p.yusukekamiyamane.com/icons/search/fugue/icons/database-sql.png) db.sql
+![zip www](http://p.yusukekamiyamane.com/icons/search/fugue/icons/box.png) www  
+![db.sql](http://p.yusukekamiyamane.com/icons/search/fugue/icons/database-sql.png) db.sql  
 ![db.sql.gz](http://p.yusukekamiyamane.com/icons/search/fugue/icons/database-sql.png)db.sql.gz
 
 #### Размещение файлов и папок:
-![folder www](http://p.yusukekamiyamane.com/icons/search/fugue/icons/folder-horizontal.png) !Import/Свежий Info.txt
-![folder www](http://p.yusukekamiyamane.com/icons/search/fugue/icons/folder-horizontal.png) Design
-![folder www](http://p.yusukekamiyamane.com/icons/search/fugue/icons/folder-horizontal.png) Screenshots
-![zip www](http://p.yusukekamiyamane.com/icons/search/fugue/icons/box.png) www
-![db.sql](http://p.yusukekamiyamane.com/icons/search/fugue/icons/database-sql.png) db.sql
-![db.sql.gz](http://p.yusukekamiyamane.com/icons/search/fugue/icons/database-sql.png)db.sql.gz
+![folder www](http://p.yusukekamiyamane.com/icons/search/fugue/icons/folder-horizontal.png) !Import/Свежий Info.txt  
+![folder www](http://p.yusukekamiyamane.com/icons/search/fugue/icons/folder-horizontal.png) Design  
+![folder www](http://p.yusukekamiyamane.com/icons/search/fugue/icons/folder-horizontal.png) Screenshots  
+![zip www](http://p.yusukekamiyamane.com/icons/search/fugue/icons/box.png) www  
+![db.sql](http://p.yusukekamiyamane.com/icons/search/fugue/icons/database-sql.png) db.sql  
+![db.sql.gz](http://p.yusukekamiyamane.com/icons/search/fugue/icons/database-sql.png)db.sql.gz  
