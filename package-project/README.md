@@ -18,12 +18,12 @@
 15. Очищаем ссылки и кеш
 16. Удаляем файлы в корне сайта: **README** и **.gitignore**
 
-#### На выходе получаем 3 файла:
+##### На выходе получаем 3 файла:
 ![zip www](http://p.yusukekamiyamane.com/icons/search/fugue/icons/box.png) www  
 ![db.sql](http://p.yusukekamiyamane.com/icons/search/fugue/icons/database-sql.png) db.sql  
 ![db.sql.gz](http://p.yusukekamiyamane.com/icons/search/fugue/icons/database-sql.png) db.sql.gz
 
-#### Размещение файлов и папок:
+#### Конечная структура готового проекта:
 ![folder www](http://p.yusukekamiyamane.com/icons/search/fugue/icons/folder-horizontal.png) !Import/ **Info.txt** - забрать у Лиды самую последнюю версию файла  
 ![folder www](http://p.yusukekamiyamane.com/icons/search/fugue/icons/folder-horizontal.png) Design  
 ![folder www](http://p.yusukekamiyamane.com/icons/search/fugue/icons/folder-horizontal.png) Screenshots  
