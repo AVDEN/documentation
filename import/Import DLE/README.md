@@ -22,6 +22,6 @@
 
 1. В каталог [tkpublish] (http://yadi.sk/d/FiB6GZ8F0wstS) заливаем текстовый файл, который подготовил контент-менеджер (`tkStati.txt`, `tkNews.txt` и т.п.)
 2. Заливаем каталог tkpublish на сервер, в корень.
-3. Переходим по ссылке http://MySite.com/tkpublish/index.php
+3. Переходим по ссылке http://site.com/tkpublish/index.php
 4. **Login:** webstar **Password:** 123123
 5. Импортируем!
