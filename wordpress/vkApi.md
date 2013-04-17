@@ -8,4 +8,9 @@ http://vk.com/editapp?act=create
 ## Фейсбук
 https://developers.facebook.com/apps
 
-![Создание приложения](http://s6.hostingkartinok.com/uploads/images/2013/04/d87c3f5cc35b59fb44fa74a13246c356.jpg "Создание приложения")
+![Создание приложения](http://s6.hostingkartinok.com/uploads/images/2013/04/9de7110a561a02a8b5db618c2f6ad00d.jpg "Создание приложения")
+![Создание приложения](http://s6.hostingkartinok.com/uploads/images/2013/04/a909b10c857482efb63765d4c9d2ff64.jpg "Создание приложения")
+![Создание приложения](http://s6.hostingkartinok.com/uploads/images/2013/04/08788911f51b717a8b7dd0df99f712c0.jpg "Создание приложения")
+https://graph.facebook.com/YanukovichVV 
+![Создание приложения](http://s6.hostingkartinok.com/uploads/images/2013/04/e309362819b9b9e124b312b986ac9db6.jpg "Создание приложения")
+![Создание приложения](http://s6.hostingkartinok.com/uploads/images/2013/04/9235c482f79201918cf3ba25ef81d6f8.jpg "Создание приложения")
