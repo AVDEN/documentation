@@ -1,4 +1,4 @@
-## Вконтакте
+## ВКонтакте
 http://vk.com/editapp?act=create  
 
 ![Создание приложения](http://s6.hostingkartinok.com/uploads/images/2013/04/5481177d051a93d7061f1e538484dcdb.jpg "Создание приложения")
